@@ -4,4 +4,4 @@ This is a project based on the exercise for Movement Neuroscience. In this proje
 # Plots
 Here you can see the generated plots.
 
-[!Plot for MUAP](Plots/MUAP.png)
+![Plot for MUAP](Plots/MUAP.png)
